@@ -20,6 +20,9 @@ Self-driving cars operate through a continuous cycle of sensing, perception, dec
 7. Path Planning: The system determines a safe path and appropriate speed while considering road conditions and traffic rules.
 8. Vehicle Control: Electronic controllers send commands to the steering, acceleration, and braking systems.
 9. Feedback: Sensors continuously monitor the surroundings and vehicle movement, allowing the system to update its actions when conditions change.
+# BLOCK DIAGRAM
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/8751d649-96c8-4ce8-b33e-bb0629f6849e" />
+
 # ADVANTAGES
 - Can reduce some types of human driving errors.
 - Provides continuous environmental monitoring.
